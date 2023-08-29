@@ -1,0 +1,10 @@
+1. Download the folder from Git hub.
+2. Create a SQL database named 'Practice_2'
+3. Import SQL file from the Database file.
+4. Run the Laravel project using php artisan serve
+5. Run migrations
+6. Login to the project using the link- http://127.0.0.1:8000/login
+Email Address= Admin@mail.com
+Password= Admin@mail.com
+7. Do CRUD operations.
+8. Good Luck :)
